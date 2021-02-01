@@ -21,6 +21,7 @@ Then you can check new crontab:
 You should see something like this:
 
 #sm start rvm
+
 PATH="/usr/local/rvm/gems/ruby-2.7.2/bin:/usr/local/rvm/gems/ruby-2.7.2@global/bin:/usr/local/rvm/rubies/ruby-2.7.2/bin:/usr/local/rvm/gems/ruby-2.7.2/bin:/usr/local/rvm/gems/ruby-2.7.2@global/bin:/usr/local/rvm/rubies/ruby-2.7.2/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/usr/local/rvm/bin:/home/asterisk/.local/bin:/home/asterisk/bin"
 GEM_HOME='/usr/local/rvm/gems/ruby-2.7.2'
 GEM_PATH='/usr/local/rvm/gems/ruby-2.7.2:/usr/local/rvm/gems/ruby-2.7.2@global'
