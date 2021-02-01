@@ -28,6 +28,7 @@ MY_RUBY_HOME='/usr/local/rvm/rubies/ruby-2.7.2'
 IRBRC='/usr/local/rvm/rubies/ruby-2.7.2/.irbrc'
 RUBY_VERSION='ruby-2.7.2'
 #sm end rvm
+
 0 18 * * * /home/asterisk/bin/q-e.rb > /dev/null 2>&1
 
 #other asterisk cron jobs
