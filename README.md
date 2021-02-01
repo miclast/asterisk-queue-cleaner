@@ -30,6 +30,8 @@ RUBY_VERSION='ruby-2.7.2'
 #sm end rvm
 0 18 * * * /home/asterisk/bin/q-e.rb > /dev/null 2>&1
 
-#other asteisk cron jobs
+#other asterisk cron jobs
+
 #...
+
 #...
