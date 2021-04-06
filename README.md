@@ -9,8 +9,6 @@ Run 'rvm cron setup' then append asterisk crontab running 'crontab -e'
 
 #Sample cron task for asterisk-queue-cleaner at 6pm every day
 
-0 18 * * * /home/asterisk/bin/q-e.rb > /dev/null 2>&1
-
 Apply new cron settings as root or sudo
 
 'service cron restart'
